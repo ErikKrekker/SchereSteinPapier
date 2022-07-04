@@ -1,7 +1,7 @@
 # SchereSteinPapier
 Projekt im 3. Semester
 
-In diesem Projekt wird die Bildverarbeitung mit OpenGl durchgeführt und eine visuelle Darstellung mit JOGL
+In diesem Projekt wird die Bildverarbeitung mit OpenGl durchgeführt und eine visuelle Darstellung mit JOGL inklusive Dokumentation
 
 Man benötigt eine Webcam, welche man in der Anwendung noch Kallibrieren kann für eine bessere Erkennung. Außerdem wird ein weißer neutraler Hintergrund empfohlen.
 
