@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SchereSteinPapier:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SchereSteinPapier_jar</output-path>
+    <root id="archive" name="SchereSteinPapier.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="SchereSteinPapier" />
+      <element id="extracted-dir" path="E:/Uni/Jogl/jogamp-all-platforms/jar/gluegen-rt.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/Uni/Jogl/jogamp-all-platforms/jar/jogl-all.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/Uni/OpenCV/opencv/build/java/opencv-454.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/Uni/ObjLoader/OBJLoader-3.0.0.jar" path-in-jar="/" />
+      <element id="dir-copy" path="$PROJECT_DIR$" />
+    </root>
+  </artifact>
+</component>
